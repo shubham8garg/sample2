@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Resume
+    url:               /resume/
   - title:             Hydejack
     url:               /hydejack/
   - title:             Hyde
